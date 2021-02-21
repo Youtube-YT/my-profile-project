@@ -1,0 +1,45 @@
+.rounded-circle {
+  width: 150px;
+  height: 150px;
+}
+
+#about {
+  background-color: gray;
+  color: white;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+}
+
+.img-fluid {
+  width: 400px;
+  height: 400px;
+}
+
+.details-table {
+  border: 2px solid black;
+}
+
+#skills {
+  background-color: cornflowerblue;
+  color: rgb(255, 27, 27);
+}
+
+.card-img-top {
+  height: 100px;
+  width: 300px;
+}
+
+#education {
+  background-color: darkcyan;
+  color: rgb(255, 27, 27);
+}
+
+#awards {
+  background-color: cornflowerblue;
+}
+
+#footer {
+  background-color: black;
+}
